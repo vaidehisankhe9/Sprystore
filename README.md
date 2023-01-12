@@ -1,2 +1,2 @@
-Github Pages Link
+Github Pages Link:-
 https://vaidehisankhe9.github.io/Sprystore/
